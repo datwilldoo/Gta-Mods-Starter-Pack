@@ -1,4 +1,4 @@
-Put All Off The Mod Files in to the main directory Of Gta 
+Put All Off The Mod Files in to the main directory Of Gta then Right Click Script And Rename  To scripts if You Want It  To Work
 
 Do NoT Put the File "Gta Mods" In to The directory Put The Files Inside it IN To the main directory
 
